@@ -5,7 +5,7 @@
 <thead align='left'><tr><th colspan=2>Ms SQL Server</th></tr></thead>
 <tbody>
 <tr>
-  <td><a href="./21-MSSQL/hackerrank.sql">01. HackerRank Ms SQL Server Solutions</a></td>
+  <td><a href="https://github.com/sue-yavuz/20-SQL/blob/main/SQL-Coding/01.%20HackerRank%20Ms%20SQL%20Server%20Solutions.ipynb">01. HackerRank Ms SQL Server Solutions</a></td>
   <td><a href="./21-MSSQL/LeetCode_SQL Study Plan.sql">02. LeetCode Ms SQL Server Solutions</a></td>
 </tr>
 </tbody>
