@@ -1,4 +1,4 @@
-<h3 align="right"><a href="https://github.com/celik-muhammed/00-Index-of-GitHub-Public-Projects-Repository-Logs/blob/master/README.md">Go to Index Page</a></h3>
+<h3 align="right"><a href="https://github.com/sue-yavuz/00-Index-of-GitHub-Public-Projects-Repository-Logs/blob/master/README.md">Go to Index Page</a></h3>
 
 <table align="center">
     <caption><div align='center'>SQL Solutions</div></caption>
@@ -6,7 +6,7 @@
 <tbody>
 <tr>
   <td><a href="https://github.com/sue-yavuz/20-SQL/blob/main/SQL-Coding/01.%20HackerRank%20Ms%20SQL%20Server%20Solutions.ipynb">01. HackerRank Ms SQL Server Solutions</a></td>
-  <td><a href="./21-MSSQL/LeetCode_SQL Study Plan.sql">02. LeetCode Ms SQL Server Solutions</a></td>
+  <td><a href="https://github.com/sue-yavuz/20-SQL/blob/main/SQL-Coding/02.%20LeetCode%20Ms%20SQL%20Server%20Solutions.ipynb">02. LeetCode Ms SQL Server Solutions</a></td>
 </tr>
 </tbody>
 <thead align='left'><tr><th colspan=2>MySQL</th></tr></thead>
